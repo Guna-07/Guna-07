@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Guna-07/Guna-07** 
+**Guna-07** 
 
 Here are some ideas to get you started:
 
