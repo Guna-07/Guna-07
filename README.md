@@ -1,7 +1,7 @@
 <img width="1000em" src= "https://github.com/Guna-07/Guna-07/blob/master/Banner.gif" align="center"/>
 
 
-## <h2 align='center'>👋 &nbsp; Hey there! I'm Guna</h2>
+## <h2 align='center'>Hey there!👋 I'm Guna</h2>
 <h3 align="center">Self-motivated and passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guna-07&label=Profile%20views&color=0e75b6&style=flat" alt="guna-07" /> </p>
