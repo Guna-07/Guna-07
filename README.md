@@ -1,4 +1,4 @@
-<img width="1000em" src= "https://github.com/Guna-07/Guna-07/blob/master/Banner.gif" align="center"/>
+
 
 
 ## <h2 align='center'>Hey there!👋 I'm Guna</h2>
