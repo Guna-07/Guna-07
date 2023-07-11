@@ -2,7 +2,9 @@
 
 
 ## <h2 align='center'>Hey there!👋 I'm Guna</h2>
-<h3 align="center">Self-motivated and passionate developer from India</h3>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guna-07&label=Profile%20views&color=0e75b6&style=flat" alt="guna-07" /> </p>
 
