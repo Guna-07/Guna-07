@@ -1,10 +1,15 @@
-
-
+  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
 
+![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
+![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
+![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
+![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
+![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
+![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
+</div>
 
 
 
