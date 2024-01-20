@@ -13,9 +13,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-🌱 I’m currently working on **Angular, Full stack deveploment**
-
-🔭 I’m currently learning on **Data Structures and Algorithms**
+🌱 I’m currently working on **Angular, Full stack deveploment**.
 
 ✉️ &nbsp;You can shoot me an email at gunabarathi1505@gmail.com! I'll try to respond as soon as I can.
 
