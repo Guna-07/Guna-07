@@ -13,7 +13,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-🌱 I’m currently working **Angular, Full stack deveploment**
+🌱 I’m currently working on **Angular, Full stack deveploment**
 
 🔭 I’m currently learning on **Data Structures and Algorithms**
 
