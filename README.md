@@ -1,68 +1,82 @@
-  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+# Hi, I'm Guna Barathi 👋
 
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
+**Full Stack Engineer building scalable web applications, AI-powered solutions, and cloud-based systems.**
 
-![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
-![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
-![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
-![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
-![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
-![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
-</div>
+I have 2+ years of experience working on production applications, with a focus on **frontend development, backend APIs, microservices, AI/LLM applications, and cloud deployment**.
 
+Currently building and documenting real-world projects to strengthen my engineering portfolio.
 
+## What I Work With
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guna-07&label=Profile%20views&color=0e75b6&style=flat" alt="guna-07" /> </p>
+**Frontend**
+React · Next.js · Angular · TypeScript · Tailwind CSS
 
-### 👨🏻‍💻 &nbsp;About Me
+**Backend**
+Node.js · Express.js · Spring Boot · REST APIs · Microservices · Kafka
 
+**AI & Data**
+Python · LLMs · RAG · FAISS · OCR · FastAPI · PySpark
 
-🌱 I’m currently working on **Angular, Full stack deveploment**.
+**Cloud & DevOps**
+AWS · Docker · Terraform · Jenkins · CI/CD · Azure AKS
 
-✉️ &nbsp;You can shoot me an email at gunabarathi1505@gmail.com! I'll try to respond as soon as I can.
+**Databases**
+MySQL · MongoDB
 
+## Featured Work
 
-<img height="150em" alt="Programming" src="https://github.com/Guna-07/Guna-07/blob/master/coding.gif" align="right"/>
+I'm currently building a collection of real-world projects covering full-stack development, AI, real-time applications, cloud infrastructure, and DevOps.
 
-### 🛠 &nbsp;Tech Stack
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=000000)&nbsp;
-![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-05122A?style=flat&logo=mongoDB&logoColor=47A248)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+### 🚀 Personal Portfolio
 
-### ⚙️ &nbsp;GitHub Analytics
+A personal developer portfolio built with **Next.js, TypeScript, and Tailwind CSS**.
 
-<p align="center">
-<a href="https://github.com/Guna-07">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guna-07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Guna-07&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+**Tech:** Next.js · React · TypeScript · Tailwind CSS · Vercel
 
-### 🤝🏻 &nbsp;Connect with Me
+> Coming soon
 
-<p align="center">
-<a href="https://linkedin.com/in/guna-r1505"><img src="https://img.shields.io/badge/-Guna%20R-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:gunabarathi1505@gmail.com"><img src="https://img.shields.io/badge/-Guna R-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/gunaa.__"><img src="https://img.shields.io/badge/@gunaa.__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+### 🏢 Multi-Tenant SaaS Platform
 
------
-Credits: [Guna](https://github.com/Guna-07)
+A project and task management application designed to explore **multi-tenancy, authentication, role-based access, REST APIs, and scalable backend architecture**.
 
+**Tech:** Angular · Node.js · Express · MySQL · JWT
 
+> In progress
 
+### 🤖 AI Document Intelligence Platform
+
+An AI-powered application for uploading documents, extracting information, performing semantic search, and answering questions using a **RAG pipeline**.
+
+**Tech:** Python · FastAPI · OCR · LLMs · Embeddings · FAISS · RAG
+
+> Planned
+
+## Currently Focused On
+
+* Building production-style full-stack projects
+* Deepening my knowledge of Angular and backend architecture
+* Building AI applications using Python, FastAPI, RAG, and vector search
+* Improving cloud, Docker, Terraform, and CI/CD skills
+* Creating a stronger public portfolio through real projects
+
+## Open to Opportunities
+
+I'm interested in collaborating on:
+
+* Full Stack Web Applications
+* AI-powered applications
+* Backend APIs and integrations
+* SaaS products
+* Freelance development projects
+
+If you have an idea or project you'd like to discuss, feel free to reach out.
+
+## Let's Connect
+
+* LinkedIn: linkedin.com/in/guna-barathi-r
+* Portfolio: Coming soon
+* Email: [gunabarathi1505@gmail.com](mailto:gunabarathi1505@gmail.com)
+
+---
+
+*"Build it. Understand it. Deploy it. Explain it."*
